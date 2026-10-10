@@ -1,6 +1,8 @@
-# Luxon
+# Core
 
-**Luxon** is a clean-room, modern C++ reimplementation of the Photon ENet reliable UDP protocol and the GP Binary serialization format (Versions 1.6 and 1.8). It provides both client and server-side network logic, encryption support, and protocol visualization/debugging tools.\
+![Core logo](https://raw.githubusercontent.com/clebsonisaquedeandradesilva/CoreRealtime/main/docs/logo.svg)
+
+**Core** is a clean-room, modern C++ reimplementation of the Photon ENet reliable UDP protocol and the GP Binary serialization format (Versions 1.6 and 1.8). It provides both client and server-side network logic, encryption support, and protocol visualization/debugging tools.\
 The project is written in **C++23** and aims to be a lightweight, dependency-flexible way to interact with Photon-based applications.
 
 ## Legal Disclaimer
