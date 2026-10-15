@@ -380,7 +380,7 @@ EnetEndpoint UdpSocket::lookup_hostname(const char *hostname, bool ipv6, uint16_
     freeaddrinfo(result);
     return out;
 #else
-    return std::nullopt;
+    return {};
 #endif
 }
 
